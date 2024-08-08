@@ -3,8 +3,11 @@ Flutter App Consulta API
 Esta es una aplicación móvil simple construida con Flutter que consume la API pública de Rick and Morty para mostrar una lista de personajes. Los usuarios pueden ver los detalles de cada personaje en una pantalla separada.
 
 Características
+
 Pantalla de Inicio: Contiene un botón estilizado que lleva a la lista de personajes.
+
 Pantalla de Lista de Personajes: Muestra una lista de personajes obtenidos de la API de Rick and Morty.
+
 Pantalla de Detalles: Muestra los detalles de un personaje seleccionado, incluyendo una imagen y una breve descripción.
 
 Para Ejecutar la aplicación
