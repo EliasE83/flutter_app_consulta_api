@@ -23,16 +23,16 @@ Pasos para ejecutar:
 4. Ejecutar la aplicación en un dispositivo fisico o en un emulador usando "flutter run".
 
 Proceso de desarrollo
-1. Estructura
+1. Estructura:
    El proyecto cuenta con la estructura común de los proyectos en flutter. Dentro de la carpeta lib, se encuentran carpetas para
    screens, models, providers y widgets.
 
-2. Consumo de API
+2. Consumo de API:
    El proyecto obtiene datos de personajes de la serie Rick & Morty utilizando la API gratuita de Rick and Morty.
    Se implementó el uso de Provider para manejar el estado y la lógica de los datos obtenidos.
 
-3. Navegación
+3. Navegación:
    Se utilizó Navigator para manejar la navegación entre pantallas.
 
-4. Manejo de Errores
+4. Manejo de Errores:
    Se implementaron condiciones de manejo básico de errores para las llamadas a la API, mostrando mensajes de error si ocurría algún problema.
