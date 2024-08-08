@@ -13,7 +13,7 @@ Para Ejecutar la aplicación
   * Editor de texto o IDE, como Visual Studio Code o Android Studio
 
 Pasos para ejecutar:
-1. Clonar el Repositorio usando "git clone ".
+1. Clonar el Repositorio usando "git clone https://github.com/EliasE83/flutter_app_consulta_api.git".
 2. Navegar al directorio del proyecto.
 3. Instalar dependencias necesarias usando "flutter pub get".
 4. Ejecutar la aplicación en un dispositivo fisico o en un emulador usando "flutter run".
